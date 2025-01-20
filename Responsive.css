@@ -1,0 +1,708 @@
+@media only screen and (max-width:1024px) {
+    .header-2 {
+        display: none;
+    }
+
+    .nav-data {
+        display: none;
+    }
+
+    .fa-bars {
+        display: flex !important;
+    }
+
+    .page-2-data-left :nth-child(1) {
+        width: auto;
+        height: 475px;
+    }
+
+    .header-3 h1 {
+        font-size: 30px;
+    }
+
+    .page-2-data-left :nth-child(2) {
+        height: 80px;
+        left: 10px;
+    }
+
+    .right-data-bottom-1 {
+        height: auto;
+    }
+
+    /* .leaf-2 img {
+        height: 60px;
+        right: -33px;
+    } */
+
+    .page-1-left-button {
+        width: auto;
+        height: auto;
+        padding: 0px 10px;
+    }
+
+    .page-3-first-image-1 img,
+    .page-3-second-image-1 img,
+    .page-3-third-image-1 img {
+        height: 155px;
+    }
+
+    .page-3-first-image-1,
+    .page-3-second-image-1,
+    .page-3-third-image-1 {
+        width: auto;
+        height: auto;
+    }
+
+    .page-3-bottom-first h2::before {
+        top: 203px;
+    }
+
+    .leaf-3 h1,
+    .page-6-right-para h1 {
+        font-size: 35px;
+    }
+
+    .page-4-right {
+        height: auto;
+        width: auto;
+    }
+
+    .page-4-right :nth-child(1) {
+        height: 500px;
+    }
+
+    .page-6-data,
+    .page-6 {
+        height: auto;
+    }
+
+    .page-7-middle-data h1 {
+        font-size: 35px;
+    }
+
+    .page-10-last img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .page-7 {
+        height: auto;
+        justify-content: center;
+        padding: 45px 0px;
+    }
+
+    .page-7-container {
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+    /* .page-7-container-image :nth-child(1){
+        height: 383px;
+    } */
+
+    .project-1 {
+        height: 383px;
+    }
+
+    .page-7-container-image-data {
+        bottom: -25px;
+    }
+
+    .project {
+        height: 383px;
+        margin-top: 45px;
+    }
+
+    .shape-1 {
+        left: 109px;
+    }
+
+    .shape-3 {
+        right: 109px;
+    }
+
+    .blogImg {
+        height: auto;
+    }
+
+    .page-11-right-button {
+        width: 18%;
+    }
+
+    .page-6-right-button {
+        width: 145px;
+    }
+
+    .page-6-bottom-icon img {
+        bottom: 90px;
+    }
+
+    .page-12{
+        height: auto;
+        padding: 15px 0px;
+    }
+    .page-12-header{
+        height: 125px;
+    }
+
+    .fa-bars {
+        display: flex !important;
+
+    }
+
+
+}
+
+
+@media only screen and (max-width:768px) {
+    .page-1 {
+        background-position: right;
+    }
+
+    .page-2 {
+        height: auto;
+        padding: 50px 0px;
+    }
+
+    .page-2-data {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .page-2-data-left {
+        width: 100%;
+    }
+
+    .page-2-data-left :nth-child(1) {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .page-2-data-right {
+        width: 100%;
+    }
+
+    .leaf-2 img {
+        top: 455px;
+    }
+
+    .page-3 {
+        height: auto;
+    }
+
+    .page-3-data {
+        height: 180vh;
+    }
+
+    .page-3-bottom {
+        flex-wrap: wrap;
+        height: auto;
+        justify-content: center;
+    }
+
+    .page-3-bottom-first {
+        width: 45%;
+    }
+
+    .third-last {
+        margin-top: 90px;
+    }
+
+    .page-4 {
+        height: auto;
+        padding: 40px 0px;
+    }
+
+    .page-4-data {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .page-4-left,
+    .page-4-left-detail {
+        width: 100%;
+    }
+
+    .page-6 {
+        height: auto;
+    }
+
+    .page-6-data {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .page-6-data-left {
+        width: 100%;
+    }
+
+    .page-6-data-right {
+        padding: 27px 27px;
+        width: 100%;
+    }
+
+    .page-6-bottom-icon img {
+        left: 244px;
+        bottom: 70px;
+    }
+
+    .page-7-container {
+        gap: 33px;
+    }
+
+    .project {
+        margin-top: 0px;
+    }
+
+    .page-8 {
+        height: auto;
+    }
+
+    .page-8-last {
+        flex-wrap: wrap;
+    }
+
+    .page-8-last-detail {
+        width: 49%;
+    }
+
+    .page-8-last {
+        justify-content: center;
+    }
+
+    .page-8-last-detail img {
+        width: auto;
+    }
+
+    .ero,
+    .ero-1 {
+        display: none;
+    }
+
+    .page-9-middle h1 {
+        font-size: 25px;
+    }
+
+    .page-9 {
+        height: auto;
+    }
+
+    .page-9-last-detail {
+        width: 60%;
+        padding: 20px;
+    }
+
+    .page-9-last {
+        flex-direction: column;
+        height: auto;
+        padding: 80px 0px;
+        justify-content: center;
+        align-items: center;
+        gap: 32px;
+    }
+
+    .page-9-container-data {
+        margin-top: 0px;
+    }
+
+    .page-9-data-image {
+        bottom: -22px;
+    }
+
+    .shap-4 {
+        right: 222px;
+    }
+
+    .shape-2 {
+        left: 222px;
+    }
+
+    .page-10-last img {
+        height: 200px;
+        width: 200px;
+    }
+
+    .page-10-middle-data {
+        text-align: center;
+    }
+
+    .page-10-middle-data h1 {
+        font-size: 37px;
+    }
+
+    .page-11 {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .page-11-last {
+        flex-wrap: wrap;
+        padding: 18px 0px;
+    }
+
+    .page-11-last-box {
+        width: 45%;
+        height: auto;
+        margin-top: 20px;
+    }
+
+    /* .page-10-middle{
+        flex-wrap: wrap;
+    } */
+
+    /* .page-10-last{
+        width: 45%;
+    } */
+
+    .page-12-data {
+        height: auto;
+    }
+
+    .page-12-header {
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px 0px;
+    }
+
+    .page-9-container-image img{
+        height: 25px;
+    }
+    .page-12{
+        height: auto;
+        padding: 30px 0px;
+    }
+    .page-12-data{
+        height: auto;
+    }
+
+    .page-12-first{
+        width: 50%;
+        margin-top: 20px;
+    }
+    .page-12-bottom{
+        height: auto;
+    }
+    
+    .page-12-first-data {
+        justify-content: start;
+    }
+    .page-12-first-data p{
+        margin-top: 25px;
+    }
+    .page-12-second-data{
+        justify-content: start;
+        gap: 25px;
+    }
+    .copyright{
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+
+    .third{
+        margin-top: 80px;
+    }
+    .page-1-left{
+        width: auto;
+      }
+      .page-3-bottom-first h2::before{
+        display: none;
+      }
+}
+
+@media only screen and (max-width:480px){
+    .nav{
+        padding: 0;
+    }
+    .page-1-left h1{
+        font-size: 50px;
+    }
+    .page-3{
+        padding: 40px 0px;
+    }
+    .page-3-data{
+        height: 260vh;
+    }
+    .leaf-3 h1{
+        font-size: 27px;
+    }
+    .page-3-bottom {
+        flex-direction: column;
+    }
+    .page-3-bottom-first{
+        width: 100%;
+        margin-top: 88px;
+    }
+    .page-4-detail h1{
+        font-size: 37px;
+    }
+    .page-4-right :nth-child(1){
+        height: 335px;
+    }
+    .page-4-right :nth-child(3){
+        height: 76px;
+        top: 15px;
+    }
+
+    .pg4{
+        height: 100px;
+        bottom: 45px;
+    }
+
+    .page-5{
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .page-5-image{
+        width: 50%;
+    align-items: center;
+    }
+    .page-7-middle-data h1{
+        font-size: 25px;
+    }
+    .page-8-last{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .shap-4{
+        right: 107px;
+        height: 35px;
+    }
+    .shape-3,.shape-1{
+        height: 45px;
+    }
+    .shape-2{
+        left: 107px;
+    }
+    .page-9-last-detail {
+        width: 100%;
+    }
+    .page-9-container-image img{
+        height: 15px;
+    }
+    .qqqq h2 {
+        font-size: 20px;
+    }
+
+    .page-11-last{
+        flex-direction: column;
+        align-items: center;
+    }
+    .page-11-last-box{
+        width: 100%;
+    }
+
+    .page-11-right-button{
+        width: 40%;
+    }
+    .page-11-head h1{
+        font-size: 25px;
+    }
+
+    .page-10{
+        height: auto;
+    }
+    .page-10-middle{
+        flex-direction: column;
+    height: 228vh;
+    align-items: center;
+    }
+ .page-10-middle-data{
+        width: 320px;
+    }
+    .page-2-data-left :nth-child(2){
+        bottom: 36px;
+        height: 60px;
+    }
+    .leaf-2 img {
+        top: 523px;
+    }
+    .page-6-data-left img {
+        object-fit: cover;
+        height: auto;
+    }
+    .page-11-last-box-second{
+        padding: 10px;
+    }
+    .page-10-last{
+        margin-top: -50px;
+        width: auto;
+    }
+    .page-10-head h1{
+        text-align: center;
+    }
+    .page-10-data{
+        padding: 40px 0px;
+    }
+
+    .page-9-middle h1{
+        z-index: 111;
+    }
+    .page-4-middle-data{
+        padding-left: 5px;
+    }
+    /* .page-1-left-button-2 button{
+        padding: 11px;
+    } */
+      .page-1-left{
+        width: auto;
+        height: 80%;
+      }
+      .page-1{
+        background-position: center;
+      }
+}
+
+
+
+
+@media only screen and (max-width:435px){
+    html{
+        overflow-x: hidden;
+    }
+    .nav-img img{
+        height:35px;
+    }
+    .page-1-left h1{
+        font-size: 40px;
+    }
+    .page-1-left p{
+        font-size: 15px;
+    }
+    .header-3 h1,.leaf-3 h1  {
+        font-size: 25px;
+    }
+    .leaf-3-data,.leaf-4,.leaf-7{
+        font-size: 13px;
+    }
+    .leaf,.leaf-9 {
+        font-size: 13px;
+    }
+    .page-4-middle-data i{
+        height: 35px;
+        width: 35px;
+    }
+    .page-4-middle-data h3{
+        font-size: 15px;
+    }
+    .page-4-right :nth-child(3){
+        height: 45px;
+    }
+    .project-1,.project{
+        width: 325px;
+    }
+    .page-7-middle-data h1 {
+        font-size: 20px;
+    }
+    .page-6-data-right-data,.leaf-8 {
+        font-size: 13px;
+    }
+    .page-8-middle h1{
+        font-size: 25px;
+    }
+    .shap-4 {
+        right: 85px;
+        height: 25px;
+        top: 20px;
+    }
+    .shape-2 {
+        left: 85px;
+        top: 20px;
+        height: 20px;
+    }
+    .shape-3, .shape-1{
+        height: 30px;
+    }
+    .shape-3{
+        right: 45px;
+        top: 50px;
+    }
+    .shape-1{
+        left: 45px;
+        top: 50px;
+    }
+    .page-6-right-button {
+        width: 130px;
+    }
+    .page-6-bottom-icon img{
+        height: 35px;
+        left: 200px;
+    }
+    .quote {
+        width: 50px;
+        height: 35px;
+        right: 15px;
+    }
+    .page-12-header{
+        height: auto;
+    }
+    .page-12-header h1{
+        font-size: 25px;
+    }
+    .page-12-header-right-logo span{
+        height: 30px;
+        width: 30px;
+    }
+    .page-12-header-right h3 {
+        font-size: 15px;
+    }
+    .page-12-first-data img{
+        width: 120px;
+    }
+
+    .ttt{
+        font-size: 13px;
+    }
+    .page-12-second-data {
+        font-size: 13px;
+    }
+    .page-12-first-data p{
+        font-size: 15px;
+    }
+    .copyright p,.copyright a {
+        font-size: 10px;
+    }
+    .page-11-top{
+        padding: 0;
+    }
+    .page-11-right-button {
+        width: 60%;
+    }
+    .qqqq h2{
+        text-align: center;
+    }
+    .page-9-container-image{
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    /* .page-9-container-image img{
+        height: 18PX;
+    } */
+     /* .brand-1{
+        height: 18%;
+     }
+     .brand-2{
+        height: 25%;
+     } */
+     .page-9-container-image img{
+        height: 20px;
+     }
+     /* .page-1-left-button-2 button{
+        padding: 11px;
+     } */
+      .page-1-left{
+        width: auto;
+        height: 80%;
+      }
+      .page-1{
+        background-position: center;
+      }
+      .page-3-data{
+        height: auto;
+        padding-bottom: 100px;
+      }
+      .page-10-last img{
+        top: 255px;
+      }
+}
